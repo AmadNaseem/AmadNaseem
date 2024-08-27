@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://streak-stats.demolab.com/?user=AmadNaseem&theme=cobalt" width="600">
+<div style="text-align: center;">
+  <img src="https://streak-stats.demolab.com/?user=AmadNaseem&theme=cobalt" width="600">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AmadNaseem&show_icons=true&theme=cobalt" width="600">
-
+</div>
 
