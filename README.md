@@ -32,12 +32,12 @@ I’m a passionate Software Engineer with a proven track record in delivering sc
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmadNaseem&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
-  
+
+---
+[![](https://visitcount.itsvg.in/api?id=AmadNaseem)](https://visitcount.itsvg.in)
+
 ---
 ## 📫 Find me
 - **[Portfolio](https://portolio-amad-2.vercel.app/)** | **[LinkedIn](https://www.linkedin.com/in/amad-naseem8bba1b205)**
   
-  
----
-[![](https://visitcount.itsvg.in/api?id=AmadNaseem)](https://visitcount.itsvg.in)
 
