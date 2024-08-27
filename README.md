@@ -26,7 +26,7 @@ I’m a passionate Software Engineer with a proven track record in delivering sc
 ---
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AmadNaseem&theme=cobalt" width="400">
+  <img src="https://streak-stats.demolab.com/?user=AmadNaseem&theme=cobalt" width="500">
   <img src="https://github-readme-stats.vercel.app/api?username=AmadNaseem&show_icons=true&theme=cobalt" width="400">
 </div>
 
