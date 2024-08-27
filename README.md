@@ -26,9 +26,11 @@ I’m a passionate Software Engineer with a proven track record in delivering sc
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=AmadNaseem&theme=cobalt" width="500">
   <img src="https://github-readme-stats.vercel.app/api?username=AmadNaseem&show_icons=true&theme=cobalt" width="500">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=AmadNaseem&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmadNaseem&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  </div>
 ---
 ## 📫 Find me
 - **[Portfolio](https://portolio-amad-2.vercel.app/)** | **[LinkedIn](https://www.linkedin.com/in/amad-naseem8bba1b205)**
