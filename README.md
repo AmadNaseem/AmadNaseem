@@ -1,82 +1,38 @@
 ## Hi there 👋
 
-<!--
-**AmadNaseem/AmadNaseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### 👨‍💻 About Me
+I’m a passionate Software Engineer with a proven track record in delivering scalable, resilient, and innovative solutions. My expertise spans across backend and frontend development, with a focus on optimizing performance and scalability. I thrive in challenging environments and am committed to contributing to the success of every project I work on.
 
-<div style="text-align: center;">
+### 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+### 📄 Publication
+- **Face Detection & Recognition from Images & Videos Based on CNN**, Computation 2022  
+  [Read here](https://doi.org/10.3390/computation10090148)
+
+---
+### 📊 GitHub Stats
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=AmadNaseem&theme=cobalt" width="600">
-
   <img src="https://github-readme-stats.vercel.app/api?username=AmadNaseem&show_icons=true&theme=cobalt" width="600">
 </div>
 
-### About Me
+---
+[![](https://visitcount.itsvg.in/api?id=AmadNaseem)](https://visitcount.itsvg.in)
 
-As a Software Engineer, I bring a wealth of expertise and a passion for crafting innovative solutions that empower organizations to maximize the potential of their assets. My commitment revolves around delivering scalable and resilient solutions, meticulously tailored to address the distinct requirements of each organization I collaborate with. With a proven track record of triumphs in the development and management of expansive systems, I am confident in my ability to produce top-tier work that significantly contributes to the prosperity of business enterprises.
-
-### Area of Expertise
-**Back-end:**  
-- Node.js, Express.js, NestJS, Prisma, Sequelize, Mongoose, Knex.js, Jest, Objection.js
-
-**Front-end:**  
-- React.js, Next.js, Redux, Context API, Typescript, JavaScript
-
-**DB & DevOps:**  
-- MongoDB, DynamoDB, Couchbase, CouchDB, PostgreSQL, MySQL, GraphQL, Firebase
-- AWS (Amazon Web Services), Microsoft Azure, CI/CD, Kafka, DataDog, Redis, RabbitMQ
-- Docker, Kubernetes, Sendgrid, Brevo, 3rd Party API Integration, Socket.IO, GRPC, RPC
-- Payment Integrations (Stripe), WebRTC, Asterisk PBX, SIP Calling, Cronjobs, Git
-
-### Professional Experience
-**Backend Developer, VOIP Specialist**  
-_Bakhabar Kissan Pakistan - Islamabad_  
-- Dynamic Back-end Engineer with team leadership experience in Node.js development for websites and applications.
-- Proven proficiency in API integrations, testing (utilizing JEST), and hands-on experience with SOAP, Restful, and Web Socket APIs.
-- Expertise in optimizing performance through caching tools like Redis and queuing tools such as RabbitMQ.
-- Managed a service with 21,000 SIP channels for IVR, SMS, and USSD, serving a subscriber base exceeding 20 million, inclusive of 16 paid wall services under the Khushaal Zamindar umbrella.
-
-**Software Engineer**  
-_FutureNostics - Islamabad_  
-- Working as a Full Stack Developer skilled with expertise in leading teams for Next.js and React.js applications within the MERN stack.
-- Proficient in API integrations, testing methodologies (including JEST), and adept at handling diverse API types such as RESTful and Web Socket APIs.
-- Experienced in deploying applications within micro-services architecture for optimal scalability and maintainability.
-
-**NOC (DevOps) Engineer**  
-_Upwork - April 2020 - Feb 2021_  
-- Experienced in DevOps tools, including Docker, Containers, Git, and GitHub, with expertise in installing ESXi bare-metal hypervisors for virtualization.
-- Proficient in configuring diverse servers such as Web, Media, Integration, Database, and Monitoring (Nagios), prioritizing optimal system and infrastructure availability.
-- Successfully managed and deployed over 200 servers, ensuring round-the-clock availability for seamless operations.
-
-**Web Developer**  
-- Built a web-based management system for an online clothing store, handling inventory tracking, order processing, and customer management, using React.js, Node.js, Redux, and Redis.
-- Developed user interface by using React.js, and Redux for SPA development.
-- Utilized Node.js with databases MongoDB, PostgreSQL, and MySQL, creating efficient data storage and retrieval solutions for dynamic web applications.
-- Utilized Jest and Enzyme to mock functions and write unit tests.
-
-### Education
-**BSc Software Engineering**  
-_Mirpur University of Science and Technology, Mirpur, A.K_
-
-### Publication
-- **Face Detection & Recognition from Images & Videos Based on CNN**, Computation 2022  
-  [URL: https://doi.org/10.3390/computation10090148](https://doi.org/10.3390/computation10090148)
-
-### Certifications
-- **IBM Front-End Developer Professional Certificate**
-- **Docker Mastery: with Kubernetes +Swarm from a Docker Captain**
-
-### Languages
-- **English**, **Urdu**
-
-### Projects
-**Bakhabar Kissan Mobile Application**  
-- Available for both Android and iOS devices with 100K+ Active Users.
-
-**Bakhabar Kissan Web Portals**  
-- 8 Million+ Users accessing different portals under Bakhabar Kissan.
-
-### Contact Me
-- **Location:** Islamabad, Pakistan
-- **Phone:** +923202210745
-- **Email:** amadnaseem05@gmail.com
-- **Portfolio | Github | LinkedIn**
+---
+### 📫 Find me
+- **[Portfolio](https://portolio-amad-2.vercel.app/)** | **[LinkedIn](https://www.linkedin.com/in/amad-naseem8bba1b205)**
