@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://streak-stats.demolab.com/?user=AmadNaseem&theme=cobalt" width="600">
-</div>
-
 
 <div style="text-align: center;">
   <img src="https://streak-stats.demolab.com/?user=AmadNaseem&theme=cobalt" width="600">
