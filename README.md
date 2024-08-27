@@ -16,12 +16,6 @@ I’m a passionate Software Engineer with a proven track record in delivering sc
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
-
-## 📄 Publication
-- **Face Detection & Recognition from Images & Videos Based on CNN**, Computation 2022  
-  [Read here](https://doi.org/10.3390/computation10090148)
-
----
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=AmadNaseem&theme=cobalt" width="500">
@@ -35,6 +29,11 @@ I’m a passionate Software Engineer with a proven track record in delivering sc
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AmadNaseem)](https://visitcount.itsvg.in)
+
+---
+## 📄 Publication
+- **Face Detection & Recognition from Images & Videos Based on CNN**, Computation 2022  
+  [Read here](https://doi.org/10.3390/computation10090148)
 
 ---
 ## 📫 Find me
