@@ -26,9 +26,6 @@ I’m a passionate Software Engineer with a proven track record in delivering sc
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AmadNaseem)](https://visitcount.itsvg.in)
-
----
 ## 📄 Publication
 - **Face Detection & Recognition from Images & Videos Based on CNN**, Computation 2022  
   [Read here](https://doi.org/10.3390/computation10090148)
@@ -37,4 +34,6 @@ I’m a passionate Software Engineer with a proven track record in delivering sc
 ## 📫 Find me
 - **[Portfolio](https://portolio-amad-2.vercel.app/)** | **[LinkedIn](https://www.linkedin.com/in/amad-naseem-8bba1b205)**
   
+---
+[![](https://visitcount.itsvg.in/api?id=AmadNaseem)](https://visitcount.itsvg.in)
 
