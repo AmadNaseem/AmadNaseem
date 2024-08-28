@@ -37,6 +37,7 @@ I’m a passionate Software Engineer with a proven track record in delivering sc
 
 ---
 ## 📫 Find me
-- **[Portfolio](https://portolio-amad-2.vercel.app/)** | **[LinkedIn](https://www.linkedin.com/in/amad-naseem8bba1b205)**
+- **<a href="https://portolio-amad-2.vercel.app/" target="_blank">Portfolio</a>** | **<a href="https://www.linkedin.com/in/amad-naseem-8bba1b205" target="_blank">LinkedIn</a>**
+- **[Portfolio](https://portolio-amad-2.vercel.app/)** | **[LinkedIn](https://www.linkedin.com/in/amad-naseem-8bba1b205)**
   
 
