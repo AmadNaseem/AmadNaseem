@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-I’m a passionate Software Engineer with a proven track record in delivering scalable, resilient, and innovative solutions. My expertise spans across backend and frontend development, with a focus on optimizing performance and scalability. I thrive in challenging environments and am committed to contributing to the success of every project I work on.
+I’m a passionate Software Engineer with a proven track record in delivering scalable, resilient, and innovative solutions. My expertise spans across backend and frontend development, with a focus on optimizing performance and scalability.
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
