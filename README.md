@@ -43,8 +43,8 @@ I’m a passionate Software Engineer with a proven track record in delivering sc
   <a href="https://reactnative.dev/" target="_blank"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-    <a href="https://www.typescriptlang.org/" target="_blank">
+  
+  <a href="https://reactnative.dev/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
