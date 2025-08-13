@@ -83,3 +83,19 @@ I’m a Software Engineer with a proven track record in delivering scalable, res
 ---
 [![](https://visitcount.itsvg.in/api?id=AmadNaseem)](https://visitcount.itsvg.in)
 
+## Live Projects
+
+Video Preview App
+```
+https://video-preview-app.vercel.app
+```
+
+ART Search App
+```
+https://art-search-app.vercel.app
+```
+
+Page Turner / Books Search
+```
+https://art-search-app.vercel.app
+```
