@@ -1,102 +1,110 @@
-## 👨‍💻 About Me
-I’m a Software Engineer with a proven track record in delivering scalable, resilient, and innovative solutions. My expertise spans across backend and frontend development, with a focus on optimizing performance and scalability.
+# 👋 Hi, I'm Amad Naseem
+
+🚀 **Software Engineer | Full-Stack Developer | Backend Specialist**
+
+I design and build **scalable, high-performance, and production-ready applications** with a strong focus on backend architecture, distributed systems, and cloud infrastructure.
+
+With hands-on experience across **Node.js ecosystems, modern frontend frameworks, and DevOps**, I specialize in building systems that are not just functional—but **reliable, maintainable, and optimized for scale**.
+
+---
+
+## 🧠 Expertise
+
+- ⚙️ **Backend Engineering:** Node.js, NestJS, Express, REST, GraphQL APIs  
+- 🏗️ **System Design:** Scalable architectures, microservices, event-driven systems  
+- 🌐 **Frontend Development:** React, Next.js, TypeScript  
+- ☁️ **Cloud & DevOps:** AWS, Firebase, Docker, Kubernetes, CI/CD  
+- 🗄️ **Databases:** PostgreSQL, MongoDB, MySQL, DynamoDB  
+- 🔗 **Integrations:** Stripe, WebRTC, Third-party APIs, Realtime systems  
+- ⚡ **Performance Optimization & Debugging**  
+- 🤖 **AI-assisted Development & Automation**
+
+---
 
 ## 💻 Tech Stack
+
+### 🚀 Core Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+
+### 🗄️ Databases & APIs
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/googlecloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> 
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://reactnative.dev/" target="_blank"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://graphql.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## 🏗️ What I Build
 
-<a href="https://fastapi.tiangolo.com/" target="_blank">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="graphql" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 🔹 Scalable SaaS platforms  
+- 🔹 eCommerce systems (custom + headless architectures)  
+- 🔹 Real-time applications (WebSockets, WebRTC)  
+- 🔹 API-first platforms & microservices  
+- 🔹 Cloud-native applications  
+- 🔹 AI-integrated workflows & automation tools  
 
-</p>
-
-  
 ---
+
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AmadNaseem&theme=cobalt" width="500">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmadNaseem&show_icons=true&theme=cobalt" width="500">
+  <img src="https://streak-stats.demolab.com/?user=AmadNaseem&theme=cobalt" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmadNaseem&show_icons=true&theme=cobalt" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmadNaseem&theme=cobalt&layout=compact" width="50%">
 </div>
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmadNaseem&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</div>
 
----
 ## 📄 Publication
-- **Face Detection & Recognition from Images & Videos Based on CNN**, Computation 2022  
-  [Read here](https://doi.org/10.3390/computation10090148)
+
+📌 **Face Detection & Recognition from Images & Videos Based on CNN**  
+📰 *Computation (2022)*  
+🔗 https://doi.org/10.3390/computation10090148
 
 ---
-## 📫 Find me
-- **[Portfolio](https://portfolio-amad-new.vercel.app/)** | **[LinkedIn](https://www.linkedin.com/in/amad-naseem-8bba1b205)**
-  
+
+## 🚀 Live Projects
+
+- 🎬 **Video Preview App**  
+  https://video-preview-app.vercel.app  
+
+- 🎨 **Art Search App**  
+  https://art-search-app.vercel.app  
+
+- 📚 **Page Turner / Book Search**  
+  https://art-search-app.vercel.app  
+
 ---
-[![](https://visitcount.itsvg.in/api?id=AmadNaseem)](https://visitcount.itsvg.in)
 
-## Live Projects
+## 📫 Connect With Me
 
-Video Preview App
-```
-https://video-preview-app.vercel.app
-```
+- 🌐 Portfolio: https://portfolio-amad-new.vercel.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/amad-naseem-8bba1b205  
 
-ART Search App
-```
-https://art-search-app.vercel.app
-```
+---
 
-Page Turner / Books Search
-```
-https://art-search-app.vercel.app
-```
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AmadNaseem" />
+</div>
 
+---
+
+⭐ *Always building, always optimizing, always scaling.*
