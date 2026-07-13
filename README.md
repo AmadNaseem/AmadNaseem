@@ -62,14 +62,11 @@ With hands-on experience across **Node.js ecosystems, modern frontend frameworks
 
 ## 🌱 Open Source Contributions
 
-Contributions to widely-used open-source AI/ML, developer-tool, and data projects:
+Merged contributions to widely-used open-source projects:
 
 | | |
 |---|---|
-| 🔭 **[OpenLIT](https://openlit.io)** <br><br> Open-source AI Engineering platform — OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, and Evaluations supporting 50+ LLM providers. <br><br> Contributor · [#1347](https://github.com/openlit/openlit/pull/1347) Firecrawl TS SDK instrumentation · [#1345](https://github.com/openlit/openlit/pull/1345) / [#1356](https://github.com/openlit/openlit/pull/1356) accessibility | 🧊 **[Apache Iceberg — PyIceberg](https://py.iceberg.apache.org)** <br><br> Python implementation of Apache Iceberg, the open table format for huge analytic datasets (Apache Software Foundation). <br><br> Contributor · [#3632](https://github.com/apache/iceberg-python/pull/3632) snapshot-timestamp validation |
-| 🦜 **[LangChain (langchain-litellm)](https://github.com/langchain-ai/langchain-litellm)** <br><br> Official LangChain integration for LiteLLM — one interface to 100+ LLM providers. <br><br> Contributor · [#215](https://github.com/langchain-ai/langchain-litellm/issues/215) streaming `finish_reason` fix | 🌿 **[Jinja](https://jinja.palletsprojects.com)** <br><br> Fast, expressive templating engine for Python (Pallets) — powers Flask, Ansible, and more. <br><br> Contributor · [#2213](https://github.com/pallets/jinja/pull/2213) `slice` filter fix |
-| 🎨 **[Pygments](https://pygments.org)** <br><br> The generic syntax highlighter for Python — 500+ lexers, used across the docs ecosystem (Sphinx, GitHub, and more). <br><br> Contributor · [#3195](https://github.com/pygments/pygments/pull/3195) Ruby lexer fix | 🗃️ **[sqlite-utils](https://sqlite-utils.datasette.io)** <br><br> CLI tool and Python library for creating and manipulating SQLite databases (Datasette). <br><br> Contributor · [#784](https://github.com/simonw/sqlite-utils/pull/784) configurable `SQLITE_MAX_VARS` |
-| 🧩 **[sqlparse](https://sqlparse.readthedocs.io)** <br><br> Non-validating SQL parser, formatter, and tokenizer for Python. <br><br> Contributor · [#861](https://github.com/andialbrecht/sqlparse/pull/861) `BETWEEN` lexing fix | |
+| 🔭 **[OpenLIT](https://openlit.io)** <br><br> Open-source AI Engineering platform — OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, and Evaluations supporting 50+ LLM providers. <br><br> Contributor · [#1347](https://github.com/openlit/openlit/pull/1347) Firecrawl TS SDK instrumentation | 🎨 **[Pygments](https://pygments.org)** <br><br> The generic syntax highlighter for Python — 500+ lexers, used across the docs ecosystem (Sphinx, GitHub, and more). <br><br> Contributor · [#3195](https://github.com/pygments/pygments/pull/3195) Ruby lexer heredoc/shift-operator fix |
 
 ---
 
