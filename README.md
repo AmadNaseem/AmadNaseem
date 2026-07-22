@@ -66,7 +66,7 @@ Merged contributions to widely-used open-source projects:
 
 | | |
 |---|---|
-| 🔭 **[OpenLIT](https://openlit.io)** <br><br> Open-source AI Engineering platform — OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, and Evaluations supporting 50+ LLM providers. <br><br> Contributor · [#1347](https://github.com/openlit/openlit/pull/1347) Firecrawl TS SDK instrumentation | 🎨 **[Pygments](https://pygments.org)** <br><br> The generic syntax highlighter for Python — 500+ lexers, used across the docs ecosystem (Sphinx, GitHub, and more). <br><br> Contributor · [#3195](https://github.com/pygments/pygments/pull/3195) Ruby lexer fix · [#3216](https://github.com/pygments/pygments/pull/3216) Clojure char-literal fix |
+| 🔭 **[OpenLIT](https://openlit.io)** <br><br> Open-source AI Engineering platform — OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, and Evaluations supporting 50+ LLM providers. <br><br> Contributor · [#1347](https://github.com/openlit/openlit/pull/1347) Firecrawl TS SDK instrumentation · [#1356](https://github.com/openlit/openlit/pull/1356) WCAG-AA accessibility fixes | 🎨 **[Pygments](https://pygments.org)** <br><br> The generic syntax highlighter for Python — 500+ lexers, used across the docs ecosystem (Sphinx, GitHub, and more). <br><br> Contributor · [#3195](https://github.com/pygments/pygments/pull/3195) Ruby lexer fix · [#3216](https://github.com/pygments/pygments/pull/3216) Clojure char-literal fix |
 
 ---
 
